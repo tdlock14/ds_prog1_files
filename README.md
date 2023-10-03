@@ -1,11 +1,11 @@
 Program #1
 
-Name:
+Name: Thomas Lockwood
 
 COSC 2030
 
-Competing: YES or NO
+Competing: NO
 
-Best run time:
+Best run time: N/A
 
-Anything that doesn't work:
+Anything that doesn't work: nothing that I know of
